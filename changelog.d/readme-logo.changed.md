@@ -1,1 +1,0 @@
-- changed: docs - the README opens with the NopeSpeaker logo

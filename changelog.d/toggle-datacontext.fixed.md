@@ -1,3 +1,0 @@
-- fix: switching a device's audio did nothing - the switch now asks for administrator rights and changes the device
-- fix: a switch flipped right after a change was ignored - the switches stay locked until the list shows the new state
-- fix: the "Bluetooth settings" link did nothing - it opens the Bluetooth page in Settings

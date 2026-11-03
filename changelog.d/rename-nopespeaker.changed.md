@@ -1,1 +1,0 @@
-- changed: the app is now called NopeSpeaker (was xBlueTooth) - the exe, the zip and the repository too

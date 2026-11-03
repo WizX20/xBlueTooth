@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/WizX20/NopeSpeaker/releases/download/v0.1.0/NopeSpeaker-0.1.0-win-x64.zip",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "hash": "4A544812EE433FA5B273C507CF969CBAA5787E78ADD6744DE7B006330BA0DCA3"
     },
     "arm64": {
       "url": "https://github.com/WizX20/NopeSpeaker/releases/download/v0.1.0/NopeSpeaker-0.1.0-win-arm64.zip",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "hash": "5A4B85EBA68653722A3E45C34D7CFDFAD9482E8891A598C968263BF277FE406C"
     }
   },
   "shortcuts": [
